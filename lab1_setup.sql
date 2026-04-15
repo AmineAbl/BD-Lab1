@@ -9,3 +9,5 @@ CREATE TABLE utilisateur (
 
 INSERT INTO utilisateur (nom, email) VALUES ('Alice', 'alice@example.com');
 INSERT INTO utilisateur (nom, email) VALUES ('Bob',   'bob@example.com');
+
+SELECT * from utilisateur;
